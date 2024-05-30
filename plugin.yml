@@ -1,0 +1,43 @@
+name: Battlecraft
+version: '1.2'
+main: com.al1kss.battlecraft.Main
+api-version: '1.18'
+authors: [al1kss]
+description: Mod made for my friends
+commands:
+  zombie:
+    description: "This is a command"
+    usage: "/zombie"
+    permission: permission.node
+    permission-message: "You do not have permission to use this command"
+
+  life:
+    description: "This is a command"
+    usage: "/life"
+    permission: permission.node
+    permission-message: "You do not have permission to use this command"
+  spawnchest:
+    description: "This is a command"
+    usage: "/spawnchest"
+    permission: permission.node
+    permission-message: "You do not have permission to use this command"
+  now:
+    description: "This is a command"
+    usage: "/now"
+    permission: permission.node
+    permission-message: "You do not have permission to use this command"
+  blue:
+    description: "This is a command"
+    usage: "/blue"
+    permission: permission.node
+    permission-message: "You do not have permission to use this command"
+  red:
+    description: "This is a command"
+    usage: "/red"
+    permission: permission.node
+    permission-message: "You do not have permission to use this command"
+  savedata:
+    description: "This is a command"
+    usage: "/savedata"
+    permission: permission.node
+    permission-message: "You do not have permission to use this command"
